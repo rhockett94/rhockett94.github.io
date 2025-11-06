@@ -1,6 +1,8 @@
+---
 layout: page
 title: "ポートフォリオ"
-permalink: /index
+permalink: /
+---
 
 #テスト内容
 テストテスト
